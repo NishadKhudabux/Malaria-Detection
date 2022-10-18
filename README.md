@@ -8,3 +8,6 @@ Multiple architectures where tested including:
 * data augmentation
 * transfer learning 
 From there the most best model was hyper parameterized to optimize performance.
+
+Link to Dataset:
+https://drive.google.com/file/d/1n3o1Xghpy9ufZwHkQFE5l5d9sUHQOUWM/view?usp=sharing
